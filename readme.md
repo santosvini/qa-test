@@ -11,7 +11,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 [Git](https://git-scm.com) ou [Hyper](https://hyper.is/), [Node.js](https://nodejs.org/en/). Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/).
 
 # Clone este repositório
-$ git clone 
+$ git clone <https://github.com/santosvini/qa-test.git>
 
 # Acesse a pasta do projeto no terminal/cmd
 $ cd qa-test/
@@ -25,11 +25,11 @@ $ npm install && npm init
 # Execute a aplicação em modo de desenvolvimento
 $ npx cypress open
 
-## Depois das instalações e configurações devidamente concluídas, sera aberto uma janela com as integration test, onde estarão os testes criados conforme a solicitação.
+## Depois das instalações e configurações devidamente concluídas, sera aberto uma janela com a integration test, onde estarão os testes criados conforme a solicitação.
 
 # Tecnologias
 
-As seguintes ferramentas foram usadas na construção do projeto:
+As seguintes ferramentas foram usadas na construção da avaliação:
 
 - [Node.js](https://nodejs.org/en/)
 - [Cypress](https://www.cypress.io/)
