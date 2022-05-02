@@ -1,0 +1,15 @@
+{
+  "name": "qa-test",
+  "version": "1.0.0",
+  "description": "Exercício de automação WEB",
+  "main": "index.js",
+  "dependencies": {
+    "cypress": "^9.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Vinicius Santos",
+  "license": "MIT"
+}
